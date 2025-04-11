@@ -1,0 +1,10 @@
+title: "QA Engineer | Arturo López Manrique"
+#logo: /assets/img/logo.png
+description: "Bienvenido a mi portafolio en GitHub Pages de QA Engineer."
+
+#show_downloads: true
+#google_analytics:
+theme: jekyll-theme-minimal
+minimal:
+  skin: "dark"
+remote_theme: pages-themes/minimal@v0.2.0
