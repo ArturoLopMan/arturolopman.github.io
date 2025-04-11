@@ -1,59 +1,53 @@
-# Bienvenido a mi GitHub Page 👨‍💻
+### QA ENGINEER | QA MANUAL TESTER | QA DOCUMENTADOR | QA AUTOMATIZADOR JUNIOR
 
-## 📌 Arturo López Manrique
-**QA Engineer | QA Manual Tester | QA Automatizador Junior | Contador**  
-Mi misión es garantizar la calidad del software, combinando un enfoque detallado, habilidades analíticas y experiencia técnica. 🚀
-
-🔗 [LinkedIn](https://linkedin.com/in/arturo-lopez-ga)  
-🔗 [GitHub](https://github.com/ArturoLopMan)  
-📄 [Descarga mi CV](ruta-a-tu-cv-en-pdf)
+📍 Lima, Perú &emsp;|&emsp; ✉️ alopezm41094@gmail.com &emsp;|&emsp; [LinkedIn](https://linkedin.com/in/arturo-lopez-qa) &emsp;|&emsp; [GitHub](https://github.com/ArturoLopMan)
 
 ---
 
-## 🧑‍💻 Sobre mí
-Soy un profesional egresado de Computación e Informática con especialización en Quality Assurance (QA). Mi experiencia incluye:
-- Pruebas manuales y automatizadas.
-- Documentación y trazabilidad en proyectos ágiles (Scrum).
-- Validación de APIs y diseño de casos de prueba en diversas plataformas.
+## 🚀 Sobre mí
 
-Mi objetivo es construir software confiable y optimizar procesos a través de herramientas modernas como **Selenium**, **Postman** y **JIRA**.
+Soy un profesional con formación en Contabilidad, especializado en **Quality Assurance (QA)**. Combino habilidades técnicas en **pruebas manuales y automatizadas**, manejo de herramientas como **Selenium, Postman y JIRA**, y experiencia en documentación, SQL y análisis de datos.
+
+Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos ágiles y optimizar procesos con pensamiento crítico y proactividad.
+
+---
+
+## 🛠️ Tech Stack
+
+- **QA Manual & Automatización:** Selenium, Postman, Charles, PyCharm
+- **Gestión de incidencias:** JIRA
+- **Pruebas en móviles:** Android Studio, DevTools
+- **Consultas:** SQL, MySQL
+- **Diseño & Documentación:** Figma, Google Workspace, Excel Avanzado
+- **Versionado & Colaboración:** GitHub
+- **Inteligencia Artificial:** Redacción de Prompts efectivos, IA generativa
 
 ---
 
 ## 📂 Proyectos Destacados
 
-### **Urban.Routes**
-- 🛠 *Tecnologías*: Selenium, JIRA, Postman.
-- 📝 *Descripción*: Validé la estabilidad del sistema y diseñé casos de prueba que detectaron 19 errores críticos.  
-[Repositorio del Proyecto](#)
+### 🔹 [Urban.Routes](projects/urban-routes/)
+Aplicación web para reserva de taxis. Pruebas funcionales y de regresión, 26 casos de prueba, 19 errores reportados.
 
-### **Urban.Lunch**
-- 🛠 *Tecnologías*: Android Studio, JIRA.
-- 📝 *Descripción*: Probé funcionalidades clave y descubrí 4 errores críticos en la app de delivery.  
-[Repositorio del Proyecto](#)
+### 🔹 [Urban.Lunch](projects/urban-lunch/)
+APK para pedidos de comida. 49 casos de prueba, 4 errores críticos, validación de botones físicos y documentación.
 
-### **Urban.Grocers**
-- 🛠 *Tecnologías*: Postman, JIRA.
-- 📝 *Descripción*: Diseñé y ejecuté 70 casos de prueba, identificando 30 errores en APIs RESTful.  
-[Repositorio del Proyecto](#)
+### 🔹 [Urban.Grocers](projects/urban-grocers/)
+App web de comestibles. Pruebas en API con Postman, 70 casos de prueba, 30 errores documentados en JIRA.
+
+### 🔹 [Urban.Scooter](projects/urban-scooter/)
+Plataforma web y API para alquilar scooters. 54 casos de prueba y validación de endpoints con 22 errores reportados.
 
 ---
 
-## 🛠️ Habilidades Técnicas
-| Herramienta         | Competencia                        |
-|---------------------|------------------------------------|
-| **Selenium**        | Pruebas automatizadas web         |
-| **Postman**         | Validación de APIs REST           |
-| **SQL**             | Consultas y validación de datos   |
-| **JIRA**            | Gestión y trazabilidad de pruebas |
-| **Excel avanzado**  | Tablas dinámicas, macros y más    |
+## 📄 [CV Profesional](docs/cv.pdf)
+
+Puedes consultar mi CV completo en formato PDF donde detallo mi experiencia contable, QA y habilidades técnicas adicionales.
 
 ---
 
-## 📬 Contacto
-📧 **Email:** alopezm41094@gmail.com  
-🌍 **Ubicación:** Lima, Perú  
+## 📬 ¿Trabajamos juntos?
 
----
+Estoy abierto a oportunidades en QA (manual o automatizado), documentación o roles híbridos donde pueda aportar mi visión analítica y técnica.
 
-¡Gracias por visitar mi página! Si tienes algún proyecto en mente o deseas colaborar, no dudes en escribirme. 🎉
+✨ ¡Gracias por visitar mi perfil!
