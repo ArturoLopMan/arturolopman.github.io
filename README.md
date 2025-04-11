@@ -1,14 +1,16 @@
 ### QA ENGINEER | QA MANUAL TESTER | QA DOCUMENTADOR | QA AUTOMATIZADOR JUNIOR
 
-📍 Lima, Perú &emsp;|&emsp; ✉️ alopezm41094@gmail.com
-
 <p align="center">
+  <a href="mailto:alopezm41094@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-alopezm41094@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
   <a href="https://linkedin.com/in/arturo-lopez-qa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Arturo_López-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/ArturoLopMan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ArturoLopMan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+  <img src="https://img.shields.io/badge/Lima,_Perú-Informativo-2E8B57?style=for-the-badge" alt="Location Badge"/>
 </p>
 
 ---
