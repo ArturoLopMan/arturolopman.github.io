@@ -41,8 +41,13 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 - Realicé pruebas en **4 endpoints** (GET, POST, DELETE) usando **Postman**.
 - Reporté **22 errores** en la API y front-end, documentados en **JIRA** con severidad y prioridad.
 
-**Aptitudes:**  
-`Postman` · `JIRA` · `Pruebas API` · `Pruebas manuales` · `Planificación de pruebas`
+**Aptitudes:**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-6E4AFF?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
+![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
 
 **Capturas del proyecto:**
 
@@ -61,8 +66,13 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 - Diseñé **49 casos de prueba** y reporté **4 errores críticos**, organizados por requisitos.
 - Validé **interacciones con botones físicos** del emulador para asegurar la usabilidad.
 
-**Aptitudes:**  
-`Android Studio` · `Testing en Android` · `JIRA` · `Pruebas de móvil` · `Planificación de pruebas` · `Pruebas manuales`
+**Aptitudes:**
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-1AB26B?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
 
 **Capturas del proyecto:**
 
@@ -81,8 +91,13 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 - Diseñé **70 casos de prueba**, identificando y reportando **30 errores en JIRA**.
 - Validé endpoints REST (GET, POST, PUT, DELETE), incluyendo estructura de JSON y respuestas esperadas.
 
-**Aptitudes:**  
-`Postman` · `Pruebas API` · `JIRA` · `Casos de prueba` · `Pruebas funcionales`
+**Aptitudes:**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Test Cases](https://img.shields.io/badge/Test%20Cases-6E4AFF?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-6E4AFF?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-008080?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 **Capturas del proyecto:**
 
@@ -99,8 +114,12 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 - Diseñé **26 casos de prueba**, reportando **19 errores** en JIRA.
 - Validé la funcionalidad de “Método de pago” y “Agregar tarjeta”, documentando **8 errores**.
 
-**Aptitudes:**  
-`Pruebas manuales` · `JIRA` · `Planificación de pruebas` · `Documentación`
+**Aptitudes:**
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
+![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Documentation-FFD700?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 **Capturas del proyecto:**
 
