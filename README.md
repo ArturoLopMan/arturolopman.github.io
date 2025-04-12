@@ -46,10 +46,10 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 
 **Capturas del proyecto:**
 
-![Postman test](../../assets/img/urban_scooter_1.png)
-![Errores en JIRA](../../assets/img/urban_scooter_2.png)
-![Casos de prueba](../../assets/img/urban_scooter_informe.png)
-![Casos de prueba](../../assets/img/urban_scooter_informe_detalle.png)
+![Postman test](assets/img/urban_scooter_1.png)
+![Errores en JIRA](assets/img/urban_scooter_2.png)
+![Casos de prueba](assets/img/urban_scooter_informe.png)
+![Casos de prueba](assets/img/urban_scooter_informe_detalle.png)
 
 ---
 
@@ -92,7 +92,7 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 `Pruebas manuales` · `JIRA` · `Planificación de pruebas` · `Documentación`
 ---
 
-## 📄 [CV Profesional](docs/cv.pdf)
+## 📄 [CV Profesional](docs/CV - Arturo Lopez QA 2025.pdf)
 
 Puedes consultar mi CV completo en formato PDF donde detallo mi experiencia contable, QA y habilidades técnicas adicionales.
 
