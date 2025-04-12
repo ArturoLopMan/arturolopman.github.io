@@ -46,10 +46,10 @@ Mi enfoque est√° en **mejorar la calidad del software**, colaborar con equipos √
 
 **Capturas del proyecto:**
 
-![Postman test](assets/img/urban_scooter_1.png)
-![Errores en JIRA](assets/img/urban_scooter_2.png)
-![Casos de prueba](assets/img/urban_scooter_informe.png)
-![Casos de prueba](assets/img/urban_scooter_informe_detalle.png)
+![Postman test](assets/img/urban_scooter_1.PNG)
+![Errores en JIRA](assets/img/urban_scooter_2.PNG)
+![Casos de prueba](assets/img/urban_scooter_informe.PNG)
+![Casos de prueba](assets/img/urban_scooter_informe_detalle.PNG)
 
 ---
 
