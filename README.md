@@ -21,10 +21,10 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 
 ## 🛠️ Tech Stack
 
-- **QA Manual & Automatización:** Selenium, Postman, Charles, PyCharm
+- **QA Manual & Automatización:** Selenium, Postman, PyCharm
 - **Gestión de incidencias:** JIRA
 - **Pruebas en móviles:** Android Studio, DevTools
-- **Consultas:** SQL, MySQL
+- **Base de datos:** SQL, MySQL
 - **Diseño & Documentación:** Figma, Google Workspace, Excel Avanzado
 - **Versionado & Colaboración:** GitHub
 - **Inteligencia Artificial:** Redacción de Prompts efectivos, IA generativa
@@ -33,18 +33,56 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 
 ## 📂 Proyectos Destacados
 
-### 🔹 [Urban.Routes](projects/urban-routes/)
-Aplicación web para reserva de taxis. Pruebas funcionales y de regresión, 26 casos de prueba, 19 errores reportados.
+## 🛴 Urban.Scooter – Plataforma web y API para alquilar scooters  
+📅 dic. 2024 - feb. 2025  
+👨‍💻 Asociado con TripleTen LatAm
 
-### 🔹 [Urban.Lunch](projects/urban-lunch/)
-APK para pedidos de comida. 49 casos de prueba, 4 errores críticos, validación de botones físicos y documentación.
+- Diseñé y ejecuté **54 casos de prueba** para validaciones de API.
+- Realicé pruebas en **4 endpoints** (GET, POST, DELETE) usando **Postman**.
+- Reporté **22 errores** en la API y front-end, documentados en **JIRA** con severidad y prioridad.
 
-### 🔹 [Urban.Grocers](projects/urban-grocers/)
-App web de comestibles. Pruebas en API con Postman, 70 casos de prueba, 30 errores documentados en JIRA.
+**Aptitudes:**  
+`Postman` · `JIRA` · `Pruebas API` · `Pruebas manuales` · `Planificación de pruebas`
 
-### 🔹 [Urban.Scooter](projects/urban-scooter/)
-Plataforma web y API para alquilar scooters. 54 casos de prueba y validación de endpoints con 22 errores reportados.
+---
 
+## 🍔 Urban.Lunch – Aplicación Android para pedir comida  
+📅 nov. 2024 - dic. 2024  
+👨‍💻 Asociado con TripleTen LatAm
+
+- Instalé y probé el **APK en emulador Android Studio**, validando UI y funcionalidad.
+- Diseñé **49 casos de prueba** y reporté **4 errores críticos**, organizados por requisitos.
+- Validé **interacciones con botones físicos** del emulador para asegurar la usabilidad.
+
+**Aptitudes:**  
+`Android Studio` · `Testing en Android` · `JIRA` · `Pruebas de móvil` · `Planificación de pruebas` · `Pruebas manuales`
+
+---
+
+## 🛒 Urban.Grocers – Aplicación web para comprar comestibles  
+📅 sept. 2024 - oct. 2024  
+👨‍💻 Asociado con TripleTen LatAm
+
+- Ejecuté pruebas funcionales y de regresión en APIs usando **Postman**.
+- Analicé la documentación técnica (**Apidoc**) para comprender lógica de negocio.
+- Diseñé **70 casos de prueba**, identificando y reportando **30 errores en JIRA**.
+- Validé endpoints REST (GET, POST, PUT, DELETE), incluyendo estructura de JSON y respuestas esperadas.
+
+**Aptitudes:**  
+`Postman` · `Pruebas API` · `JIRA` · `Casos de prueba` · `Pruebas funcionales`
+
+---
+
+## 🚕 Urban.Routes – Aplicación web para reserva de taxis  
+📅 ago. 2024  
+👨‍💻 Asociado con TripleTen LatAm
+
+- Ejecuté **pruebas funcionales y de regresión** en Chrome y Firefox.
+- Diseñé **26 casos de prueba**, reportando **19 errores** en JIRA.
+- Validé la funcionalidad de “Método de pago” y “Agregar tarjeta”, documentando **8 errores**.
+
+**Aptitudes:**  
+`Pruebas manuales` · `JIRA` · `Planificación de pruebas` · `Documentación`
 ---
 
 ## 📄 [CV Profesional](docs/cv.pdf)
