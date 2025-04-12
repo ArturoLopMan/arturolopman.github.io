@@ -67,8 +67,8 @@ Mi enfoque est√° en **mejorar la calidad del software**, colaborar con equipos √
 **Capturas del proyecto:**
 
 ![APK en Android Studio](assets/img/urban_lunch.PNG)
-![Casos de prueba](assets/img/urban_lunch-informe.PNG)
-![Informe de error](assets/img/urban_lunch-informe-detalle.PNG)
+![Casos de prueba](assets/img/urban_lunch_informe.PNG)
+![Informe de error](assets/img/urban_lunch_informe_detalle.PNG)
 
 ---
 
