@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="mailto:alopezm41094@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-alopezm41094@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://linkedin.com/in/arturo-lopez-qa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
