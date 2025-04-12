@@ -44,6 +44,13 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 **Aptitudes:**  
 `Postman` · `JIRA` · `Pruebas API` · `Pruebas manuales` · `Planificación de pruebas`
 
+**Capturas del proyecto:**
+
+![Postman test](../../assets/img/urban_scooter_1.png)
+![Errores en JIRA](../../assets/img/urban_scooter_2.png)
+![Casos de prueba](../../assets/img/urban_scooter_informe.png)
+![Casos de prueba](../../assets/img/urban_scooter_informe_detalle.png)
+
 ---
 
 ## 🍔 Urban.Lunch – Aplicación Android para pedir comida  
