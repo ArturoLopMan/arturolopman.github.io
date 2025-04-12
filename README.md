@@ -64,6 +64,12 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 **Aptitudes:**  
 `Android Studio` · `Testing en Android` · `JIRA` · `Pruebas de móvil` · `Planificación de pruebas` · `Pruebas manuales`
 
+**Capturas del proyecto:**
+
+![APK en Android Studio](assets/img/urban_lunch.PNG)
+![Casos de prueba](assets/img/urban_lunch-informe.PNG)
+![Informe de error](assets/img/urban_lunch-informe-detalle.PNG)
+
 ---
 
 ## 🛒 Urban.Grocers – Aplicación web para comprar comestibles  
@@ -78,6 +84,11 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 **Aptitudes:**  
 `Postman` · `Pruebas API` · `JIRA` · `Casos de prueba` · `Pruebas funcionales`
 
+**Capturas del proyecto:**
+
+![Postman JSON](assets/img/urban_grocer.PNG)
+![Lista de verificación](assets/img/urban_grocer_informe.PNG)
+
 ---
 
 ## 🚕 Urban.Routes – Aplicación web para reserva de taxis  
@@ -90,6 +101,12 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 
 **Aptitudes:**  
 `Pruebas manuales` · `JIRA` · `Planificación de pruebas` · `Documentación`
+
+**Capturas del proyecto:**
+
+![Validación funcional](assets/img/urban_routes.PNG)
+![Casos de prueba](assets/img/urban_routes_informe.PNG)
+
 ---
 
 ## 📄 [CV Profesional](docs/CV - Arturo Lopez QA 2025.pdf)
