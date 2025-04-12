@@ -1,6 +1,6 @@
 ### QA ENGINEER | QA MANUAL TESTER | QA DOCUMENTADOR | QA AUTOMATIZADOR JUNIOR
 
-<p align="center">
+<p>
   <a href="mailto:alopezm41094@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-alopezm41094@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
