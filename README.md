@@ -87,16 +87,14 @@ Además, cuento con experiencia en:
 ## 📂 Proyectos Destacados
 
 ## 🛴 Urban.Scooter – Plataforma web y API para alquilar scooters
-**Descripción:** En este proyecto validé la calidad de una aplicación web y móvil para el alquiler de scooters eléctricos. Analicé los requisitos funcionales, diseñé pruebas aplicando técnicas como partición de equivalencias y valores límite, y validé la integración de datos mediante Postman y DevTools, asegurando precisión en los flujos backend y front-end.
+Validé la calidad de una aplicación web y móvil para el alquiler de scooters eléctricos. Analicé los requisitos funcionales, diseñé pruebas aplicando técnicas como **partición de equivalencias** y **valores límite**, y validé la integración de datos con **Postman** y **DevTools**, asegurando precisión en los flujos backend y front-end.
 
-Este trabajo me permitió optimizar pruebas funcionales y de UI, documentar hallazgos con detalle, y aportar directamente a la mejora del producto.
-Resultados destacados:
+Este trabajo me permitió optimizar pruebas funcionales y de UI, documentar hallazgos en JIRA.
 
-    🧪 Diseñé y ejecuté 54 casos de prueba para validaciones de API.
-
-    🔗 Probé 4 endpoints (GET, POST, DELETE) usando Postman.
-
-    🐞 Reporté 22 errores documentados en JIRA, priorizados según severidad.
+**Resultados destacados:**
+- 🧪 Diseñé y ejecuté **54 casos de prueba** para validaciones de API.  
+- 🔗 Probé **4 endpoints** (GET, POST, DELETE) usando **Postman**.  
+- 🐞 Reporté **22 errores** documentados en **JIRA**, priorizados según severidad.
  
 **Aptitudes:**
 
@@ -134,11 +132,15 @@ Resultados destacados:
 ---
 
 ## 🍔 Urban.Lunch – Aplicación Android para pedir comida
-**Descripción:** Aplicación Android para pedir comida. Corregir
+Validé la primera versión de **Urban.Lunch**, una aplicación Android para personalizar y pedir comidas de distintos restaurantes, con retiro en puntos de recogida. Analicé los requisitos funcionales y diseñé una **lista de comprobación** basada en criterios clave de usabilidad, funcionalidad y consistencia.
 
-**Resultados:**
-- Instalé y probé el **APK en emulador Android Studio**, validando UI y funcionalidad.
-- Diseñé **49 casos de prueba** y reporté **4 errores críticos**, organizados por requisitos.
+Probé la app en un **emulador Android Studio**, verificando la interacción de la interfaz, lógica de negocio y respuesta ante errores. Reporté hallazgos críticos mediante **JIRA**, documentando cada incidencia con claridad y priorización, contribuyendo a la mejora del producto final.
+
+**Resultados destacados:**
+- ✅ Elaboré una **lista de verificación** basada en los requisitos funcionales.  
+- 📲 Probé la app en **emulador Android**, validando UI y flujos clave.  
+- 🐛 Documenté **errores críticos en JIRA** con detalle y severidad.
+- 🧪 Diseñé y ejecuté **49 casos de prueba** y reporté **4 errores críticos**, organizados por requisitos.
 - Validé **interacciones con botones físicos** del emulador para asegurar la usabilidad.
 
 **Aptitudes:**
@@ -172,13 +174,14 @@ Resultados destacados:
 ---
 
 ## 🛒 Urban.Grocers – Aplicación web para comprar comestibles
-**Descripción:** Corregir
+Este proyecto consistio en la validación del backend de **Urban.Grocers**, una aplicación web para la compra de comestibles. Estudié la documentación técnica en **Apidoc**, analicé los requisitos de una nueva funcionalidad y diseñé una **lista de comprobación** centrada en flujos de datos y respuestas esperadas.
 
-**Resultados:**
-- Ejecuté pruebas funcionales y de regresión en APIs usando **Postman**.
-- Analicé la documentación técnica (**Apidoc**) para comprender lógica de negocio.
-- Diseñé **70 casos de prueba**, identificando y reportando **30 errores en JIRA**.
-- Validé endpoints REST (GET, POST, PUT, DELETE), incluyendo estructura de JSON y respuestas esperadas.
+Ejecuté pruebas a través de **Postman**, cubriendo distintos escenarios positivos y negativos, y reporté los errores detectados en **JIRA** con la documentación correspondiente. El enfoque fue garantizar la calidad y estabilidad de los endpoints antes del despliegue.
+
+**Resultados destacados:**
+- 📄 Analicé la documentación técnica del backend y API.  
+- ✔️ Diseñé **70 casos de prueba**, identificando y reportando **30 errores en JIRA**.
+- 🔍 Probé **endpoints en Postman** y documenté errores en **JIRA**, incluyendo estructura de JSON y respuestas esperadas.
 
 **Aptitudes:**
 
@@ -206,12 +209,15 @@ Resultados destacados:
 ---
 
 ## 🚕 Urban.Routes – Aplicación web para reserva de taxis
-**Descripción:** Corregir
+Realicé pruebas de regresión para **Urban.Routes**, una app que calcula rutas, duración y precios para distintos medios de transporte. Validé la lógica de negocio mediante técnicas como **clases de equivalencia** y **valores límite**, diseñando casos de prueba detallados y un **diagrama de flujo** para la funcionalidad de auto compartido.
 
-**Resultados:**
-- Ejecuté **pruebas funcionales y de regresión** en Chrome y Firefox.
-- Diseñé **26 casos de prueba**, reportando **19 errores** en JIRA.
-- Validé la funcionalidad de “Método de pago” y “Agregar tarjeta”, documentando **8 errores**.
+Elaboré listas de comprobación para validar el diseño del formulario de reserva, las ventanas emergentes, y funciones clave como “Agregar tarjeta”, “Método de pago” y el botón "Reservar". Finalmente, ejecuté las pruebas funcionales en dos entornos (Chrome y Firefox con resoluciones específicas), y documenté errores encontrados en **JIRA**.
+
+**Resultados destacados:**
+- ✔️ Diseñé listas de comprobación para UI y flujos críticos.  
+- 🧪 Preparé y ejecuté **casos de prueba positivos y negativos**.  
+- 🧭 Validé funcionalidades clave en diferentes resoluciones y navegadores.  
+- 🐞 Documenté errores funcionales y de interfaz en **JIRA**.
 
 **Aptitudes:**
 
