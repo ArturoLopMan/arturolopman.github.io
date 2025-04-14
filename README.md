@@ -25,7 +25,7 @@ Mi enfoque está en **mejorar la calidad del software**, colaborar con equipos �
 
 Además, cuento con experiencia en:
 
-- ✍️ **Redacción de planes de prueba** y **casos de uso**.
+- ✍️ **Redacción de planes de prueba**, **historias de usuario** y **casos de uso**.
 - 🧪 **Diseño y ejecución de casos de prueba** funcionales y de regresión.
 - 🐞 **Reporte de defectos** con análisis de severidad/prioridad en JIRA.
 - 🧠 **Aplicación de técnicas de testing** como:
@@ -39,6 +39,7 @@ Además, cuento con experiencia en:
   - Creación de tablas y bases de datos
   - Inserción de registros
   - Consultas SQL para validación
+
 ---
 
 ## 🛠️ Tech Stack
