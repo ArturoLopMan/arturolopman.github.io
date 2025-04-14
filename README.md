@@ -99,6 +99,7 @@ Además, cuento con experiencia en:
 ![API Testing](https://img.shields.io/badge/API%20Testing-6E4AFF?style=for-the-badge)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
 ![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
+
 **Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/urban-scooter)  
 **Capturas del proyecto:**  
 Haz clic en las imágenes para ampliarlas.
