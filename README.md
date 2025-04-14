@@ -35,11 +35,9 @@ Además, cuento con experiencia en:
   - Casos de uso
 - 🔄 **Pruebas de APIs REST usando Postman**, ejecutando operaciones **CRUD**.
 - 🗃️ **Gestión de bases de datos con MySQL**:
-  - Diseño de modelos EER
   - Creación de tablas y bases de datos
   - Inserción de registros
   - Consultas SQL para validación
-
 ---
 
 ## 🛠️ Tech Stack
