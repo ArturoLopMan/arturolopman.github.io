@@ -89,8 +89,8 @@ Además, cuento con experiencia en:
 ## 🛴 Urban.Scooter – Plataforma web y API para alquilar scooters
 **Descripción:** En Urban.Scooter, lideré la validación de una aplicación web para el alquiler de scooters eléctricos. Analicé los requisitos y diseñé pruebas utilizando técnicas como partición de equivalencias y valores límite, asegurando una cobertura eficiente sin redundancias. Validé APIs con Postman, DevTools y Charles Proxy, asegurando la correcta integración de datos.
 
-Este proyecto me permitió optimizar las pruebas funcionales y de UI, entregando informes detallados de errores. Mi enfoque estratégico en la calidad del software resalta mi habilidad para aportar valor en proyectos de consultoría TI, fintechs y startups.
-**Resultados:** 
+Este proyecto me permitió optimizar las pruebas funcionales y de UI, entregando informes detallados de errores. Con los siguientes resultados:
+
 - Diseñé y ejecuté **54 casos de prueba** para validaciones de API.
 - Realicé pruebas en **4 endpoints** (GET, POST, DELETE) usando **Postman**.
 - Reporté **22 errores** en la API y front-end, documentados en **JIRA** con severidad y prioridad.
