@@ -88,10 +88,12 @@ Además, cuento con experiencia en:
 
 ## 🛴 Urban.Scooter – Plataforma web y API para alquilar scooters
 **Descripción:** Plataforma web y API para alquilar scooters (agregar más detalle).
+
 **Resultados:** 
 - Diseñé y ejecuté **54 casos de prueba** para validaciones de API.
 - Realicé pruebas en **4 endpoints** (GET, POST, DELETE) usando **Postman**.
 - Reporté **22 errores** en la API y front-end, documentados en **JIRA** con severidad y prioridad.
+ 
 **Aptitudes:**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -100,28 +102,29 @@ Además, cuento con experiencia en:
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
 ![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
 
-**Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/urban-scooter)  
+**Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/urban-scooter)
+
 **Capturas del proyecto:**  
 Haz clic en las imágenes para ampliarlas.
 
 <div style="display:flex; gap:10px;">
   <a href="assets/img/urban_scooter_1.PNG" target="_blank">
-    <img src="assets/img/urban_scooter_1.PNG" alt="Postman test" width="300"/>
+    <img src="assets/img/urban_scooter_1.PNG" alt="Postman test" width="500"/>
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
   <a href="assets/img/urban_scooter_2.PNG" target="_blank">
-    <img src="assets/img/urban_scooter_2.PNG" alt="Postman test" width="300"/>
+    <img src="assets/img/urban_scooter_2.PNG" alt="Postman test" width="500"/>
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
   <a href="assets/img/urban_scooter_informe.PNG" target="_blank">
-    <img src="assets/img/urban_scooter_informe.PNG" alt="Postman test" width="300"/>
+    <img src="assets/img/urban_scooter_informe.PNG" alt="Postman test" width="500"/>
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
   <a href="assets/img/urban_scooter_informe_detalle.PNG" target="_blank">
-    <img src="assets/img/urban_scooter_informe_detalle.PNG" alt="Postman test" width="300"/>
+    <img src="assets/img/urban_scooter_informe_detalle.PNG" alt="Postman test" width="500"/>
   </a>  
 </div>
 
