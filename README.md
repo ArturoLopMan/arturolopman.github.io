@@ -146,6 +146,7 @@ Además, cuento con experiencia en:
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
 
 **Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/urban-lunch)  
+
 **Capturas del proyecto:**  
 
 <div style="display:flex; gap:10px;">
@@ -168,6 +169,7 @@ Además, cuento con experiencia en:
 
 ## 🛒 Urban.Grocers – Aplicación web para comprar comestibles
 **Descripción:** Corregir
+
 **Resultados:**
 - Ejecuté pruebas funcionales y de regresión en APIs usando **Postman**.
 - Analicé la documentación técnica (**Apidoc**) para comprender lógica de negocio.
@@ -201,6 +203,7 @@ Además, cuento con experiencia en:
 
 ## 🚕 Urban.Routes – Aplicación web para reserva de taxis
 **Descripción:** Corregir
+
 **Resultados:**
 - Ejecuté **pruebas funcionales y de regresión** en Chrome y Firefox.
 - Diseñé **26 casos de prueba**, reportando **19 errores** en JIRA.
@@ -231,8 +234,22 @@ Además, cuento con experiencia en:
 ---
 
 ### **Proyecto Referencial 1**
-**Descripción:** Ejemplo de proyecto web para prueba funcional y regresión.  
+**Descripción:** Ejemplo de proyecto web para prueba funcional y regresión.
+
+**Resultados:**
+- Ejecuté **pruebas funcionales y de regresión** en Chrome y Firefox.
+- Diseñé **26 casos de prueba**, reportando **19 errores** en JIRA.
+- Validé la funcionalidad de “Método de pago” y “Agregar tarjeta”, documentando **8 errores**.
+
+**Aptitudes:**
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
+![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Documentation-FFD700?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 **Enlace:** [Repositorio GitHub](https://github.com/tu-repo-ejemplo)  
+
 **Capturas del proyecto:**  
 Haz clic en las imágenes para ampliarlas. Cierra el zoom haciendo clic en el botón negro "Cerrar".
 
@@ -246,9 +263,22 @@ Haz clic en las imágenes para ampliarlas. Cierra el zoom haciendo clic en el bo
 
 ### **Proyecto Referencial 2**
 **Descripción:** Ejemplo de plataforma API con pruebas automatizadas y reporte de errores.  
+
+**Resultados:**
+- Ejecuté **pruebas funcionales y de regresión** en Chrome y Firefox.
+- Diseñé **26 casos de prueba**, reportando **19 errores** en JIRA.
+- Validé la funcionalidad de “Método de pago” y “Agregar tarjeta”, documentando **8 errores**.
+
+**Aptitudes:**
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
+![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Documentation-FFD700?style=for-the-badge)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 **Enlace:** [Repositorio GitHub](https://github.com/tu-repo-ejemplo)  
+
 **Capturas del proyecto:**  
-Haz clic en las imágenes para ampliarlas. Cierra el zoom haciendo clic en el botón negro "Cerrar".
 
 <div style="display:flex; gap:10px;">
   <a href="assets/img/proyecto_ejemplo_2.PNG" target="_blank">
