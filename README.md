@@ -183,6 +183,7 @@ Además, cuento con experiencia en:
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 **Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/urban-lunch)  #corregir
+
 **Capturas del proyecto:**  
 
 <div style="display:flex; gap:10px;">
@@ -213,6 +214,7 @@ Además, cuento con experiencia en:
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 **Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/urban-lunch)  #corregir
+
 **Capturas del proyecto:**  
 
 <div style="display:flex; gap:10px;">
