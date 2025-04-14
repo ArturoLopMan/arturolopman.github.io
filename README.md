@@ -36,8 +36,8 @@ Además, cuento con experiencia en:
 - 🔄 **Pruebas de APIs REST usando Postman**, ejecutando operaciones **CRUD**.
 - 🗃️ **Gestión de bases de datos con MySQL**:
   - Creación de tablas y bases de datos
-  - Inserción de registros
-  - Consultas SQL para validación
+  - Inserción y consultas SQL registros
+    
 ---
 
 ## 🛠️ Tech Stack
