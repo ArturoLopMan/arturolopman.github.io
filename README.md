@@ -15,13 +15,47 @@
 
 ---
 
+## 📋 Índice
+
+1. [🚀 Sobre mí](#-sobre-mí)  
+2. [🛠️ Tech Stack](#️-tech-stack)  
+3. [📂 Proyectos Destacados](#-proyectos-destacados)  
+4. [📄 CV Profesional](#-cv-profesional)  
+5. [📬 ¿Hablemos?](#-hablemos)
+
+---
+
 ## 🚀 Sobre mí
 
 Soy **Arturo López Manrique**, profesional en **Quality Assurance (QA)** con experiencia en pruebas manuales y automatizadas, validación de APIs, diseño de casos de prueba y documentación técnica. Combino habilidades analíticas y técnicas avanzadas con una perspectiva estratégica, garantizando soluciones de calidad y procesos optimizados.
 
 Cuento con formación en **Computación e Informática** y una trayectoria en **Contabilidad**, lo que me permite aplicar enfoques únicos para identificar y resolver problemas, asegurando software robusto y alineado con los objetivos del cliente.
 
-📍 **Lema:** _La calidad no es solo un objetivo, es el estándar._
+---
+
+## 🛠️ Tech Stack
+
+### **Herramientas de QA y Testing**
+- Selenium
+- Postman
+- Android Studio
+- PyCharm
+
+### **Gestión y Colaboración**
+- JIRA
+- DevTools
+- Figma
+- GitHub
+
+### **Bases de Datos y Datos**
+- SQL
+- MySQL
+- Excel Avanzado (Tablas dinámicas y Macros)
+- Google Workspace
+
+### **IA y Visualización**
+- Looker Studio
+- Modelos de IA (Prompts efectivos)
 
 ---
 
@@ -31,14 +65,14 @@ Cuento con formación en **Computación e Informática** y una trayectoria en **
 **Descripción:** Plataforma web y API para alquilar scooters.  
 **Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/urban-scooter)  
 **Capturas del proyecto:**  
-Haz clic en las imágenes para ampliarlas:
+Haz clic en las imágenes para ampliarlas. Cierra el zoom haciendo clic en el botón negro "Cerrar".
 
-<a href="assets/img/urban_scooter_1.PNG">
-  <img src="assets/img/urban_scooter_1.PNG" alt="Postman test" width="300"/>
-</a>
-<a href="assets/img/urban_scooter_2.PNG">
-  <img src="assets/img/urban_scooter_2.PNG" alt="Errores en JIRA" width="300"/>
-</a>
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_scooter_1.PNG" target="_blank">
+    <img src="assets/img/urban_scooter_1.PNG" alt="Postman test" width="300"/>
+  </a>
+  <button onclick="window.close()" style="background-color:black; color:white; border:none; padding:10px; cursor:pointer;">Cerrar</button>
+</div>
 
 ---
 
@@ -46,14 +80,14 @@ Haz clic en las imágenes para ampliarlas:
 **Descripción:** Aplicación Android para pedir comida.  
 **Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/urban-lunch)  
 **Capturas del proyecto:**  
-Haz clic en las imágenes para ampliarlas:
+Haz clic en las imágenes para ampliarlas. Cierra el zoom haciendo clic en el botón negro "Cerrar".
 
-<a href="assets/img/urban_lunch.PNG">
-  <img src="assets/img/urban_lunch.PNG" alt="APK en Android Studio" width="300"/>
-</a>
-<a href="assets/img/urban_lunch_informe.PNG">
-  <img src="assets/img/urban_lunch_informe.PNG" alt="Casos de prueba" width="300"/>
-</a>
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_lunch.PNG" target="_blank">
+    <img src="assets/img/urban_lunch.PNG" alt="APK en Android Studio" width="300"/>
+  </a>
+  <button onclick="window.close()" style="background-color:black; color:white; border:none; padding:10px; cursor:pointer;">Cerrar</button>
+</div>
 
 ---
 
@@ -61,14 +95,14 @@ Haz clic en las imágenes para ampliarlas:
 **Descripción:** Ejemplo de proyecto web para prueba funcional y regresión.  
 **Enlace:** [Repositorio GitHub](https://github.com/tu-repo-ejemplo)  
 **Capturas del proyecto:**  
-Haz clic en las imágenes para ampliarlas:
+Haz clic en las imágenes para ampliarlas. Cierra el zoom haciendo clic en el botón negro "Cerrar".
 
-<a href="assets/img/proyecto_ejemplo_1.PNG">
-  <img src="assets/img/proyecto_ejemplo_1.PNG" alt="Captura ejemplo" width="300"/>
-</a>
-<a href="assets/img/proyecto_ejemplo_2.PNG">
-  <img src="assets/img/proyecto_ejemplo_2.PNG" alt="Captura ejemplo 2" width="300"/>
-</a>
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/proyecto_ejemplo_1.PNG" target="_blank">
+    <img src="assets/img/proyecto_ejemplo_1.PNG" alt="Captura ejemplo" width="300"/>
+  </a>
+  <button onclick="window.close()" style="background-color:black; color:white; border:none; padding:10px; cursor:pointer;">Cerrar</button>
+</div>
 
 ---
 
@@ -76,14 +110,14 @@ Haz clic en las imágenes para ampliarlas:
 **Descripción:** Ejemplo de plataforma API con pruebas automatizadas y reporte de errores.  
 **Enlace:** [Repositorio GitHub](https://github.com/tu-repo-ejemplo)  
 **Capturas del proyecto:**  
-Haz clic en las imágenes para ampliarlas:
+Haz clic en las imágenes para ampliarlas. Cierra el zoom haciendo clic en el botón negro "Cerrar".
 
-<a href="assets/img/proyecto_ejemplo_3.PNG">
-  <img src="assets/img/proyecto_ejemplo_3.PNG" alt="Captura ejemplo" width="300"/>
-</a>
-<a href="assets/img/proyecto_ejemplo_4.PNG">
-  <img src="assets/img/proyecto_ejemplo_4.PNG" alt="Captura ejemplo 2" width="300"/>
-</a>
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/proyecto_ejemplo_2.PNG" target="_blank">
+    <img src="assets/img/proyecto_ejemplo_2.PNG" alt="Captura ejemplo" width="300"/>
+  </a>
+  <button onclick="window.close()" style="background-color:black; color:white; border:none; padding:10px; cursor:pointer;">Cerrar</button>
+</div>
 
 ---
 
