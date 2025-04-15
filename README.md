@@ -284,31 +284,40 @@ Entre las funcionalidades automatizadas se encuentran: selección de tarifa "Com
 
 ---
 
-### **Proyecto Referencial 2**
-**Descripción:** Ejemplo de plataforma API con pruebas automatizadas y reporte de errores.  
+## 🧪 Urban.Grocers – Automatización de pruebas para creación de kits de productos
+Este proyecto se enfocó en automatizar la validación de la funcionalidad de creación de "kits de productos" en la aplicación **Urban.Grocers**, a través de su API documentada en Swagger. Se desarrolló una suite de pruebas basadas en una lista de comprobación para el campo `name`, validando distintos escenarios con datos válidos e inválidos en solicitudes POST.
 
-**Resultados:**
-- Ejecuté **pruebas funcionales y de regresión** en Chrome y Firefox.
-- Diseñé **26 casos de prueba**, reportando **19 errores** en JIRA.
-- Validé la funcionalidad de “Método de pago” y “Agregar tarjeta”, documentando **8 errores**.
+El proceso incluyó la autenticación de usuarios mediante `authToken`, el envío de solicitudes autorizadas para la creación de kits, y la implementación de validaciones dinámicas sobre la respuesta del servidor. Toda la lógica se distribuyó en 4 archivos principales, organizando la configuración, datos de prueba, funciones de solicitud y los tests automatizados.
+
+**Resultados destacados:**
+- ✅ Se implementaron **9 funciones de prueba automatizada** cubriendo casos límite y equivalentes.  
+- 🔐 Se manejó **autenticación vía token** y uso correcto de encabezados en API.  
+- 🧩 Arquitectura organizada en módulos: `configuration.py`, `data.py`, `sender_stand_request.py`, `create_kit_name_kit_test.py`.  
 
 **Aptitudes:**
 
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
-![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
-![Documentation](https://img.shields.io/badge/Documentation-FFD700?style=for-the-badge)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-6E4AFF?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Test%20Automation-007ACC?style=for-the-badge)
+![Token Auth](https://img.shields.io/badge/Auth%20Token-FF8C00?style=for-the-badge)
+![Modular Code](https://img.shields.io/badge/Modular%20Structure-444444?style=for-the-badge)
+![JSON Validation](https://img.shields.io/badge/JSON%20Validation-1E90FF?style=for-the-badge)
 
-**Enlace:** [Repositorio GitHub](https://github.com/tu-repo-ejemplo)  
+**Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/qa-project-Urban-Grocers-app-es.git)
 
 **Capturas del proyecto:**  
 
 <div style="display:flex; gap:10px;">
-  <a href="assets/img/proyecto_ejemplo_2.PNG" target="_blank">
-    <img src="assets/img/proyecto_ejemplo_2.PNG" alt="Captura ejemplo" width="300"/>
+  <a href="assets/img/urban_grocers_autom_1.PNG" target="_blank">
+    <img src="assets/img/urban_grocers_autom_1.PNG" alt="Captura atm grocers" width="500"/>
   </a>  
 </div>
-
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/urban_grocers_autom_2.PNG" target="_blank">
+    <img src="assets/img/urban_grocers_autom_2.PNG" alt="Captura atm grocers 2" width="500"/>
+  </a>  
+</div>
 ---
 
 ## 📄 CV Profesional
