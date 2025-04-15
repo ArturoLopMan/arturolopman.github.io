@@ -247,29 +247,38 @@ Elaboré listas de comprobación para validar el diseño del formulario de reser
 
 ---
 
-### **Proyecto Referencial 1**
-**Descripción:** Ejemplo de proyecto web para prueba funcional y regresión.
+## 🤖 Urban.Routes – Automatización del flujo completo de reserva
+Este proyecto tuvo como objetivo automatizar el proceso completo de solicitud de taxi en la aplicación web **Urban.Routes**, una plataforma para transporte personalizado. Utilicé **Selenium WebDriver** para simular las acciones del usuario desde la configuración de la ruta hasta la confirmación del viaje, garantizando la verificación continua de funciones críticas del sistema.
 
-**Resultados:**
-- Ejecuté **pruebas funcionales y de regresión** en Chrome y Firefox.
-- Diseñé **26 casos de prueba**, reportando **19 errores** en JIRA.
-- Validé la funcionalidad de “Método de pago” y “Agregar tarjeta”, documentando **8 errores**.
+Entre las funcionalidades automatizadas se encuentran: selección de tarifa "Comfort", ingreso de teléfono, adición de tarjeta de crédito (validando el flujo de activación por pérdida de enfoque del campo CVV), selección de extras (mantas, pañuelos, helados), y la validación del modal de búsqueda de taxi. Esta prueba de extremo a extremo mejora la estabilidad del sistema ante futuras actualizaciones.
+
+**Resultados destacados:**
+- 🔁 Automatización completa del flujo de reserva con validación de elementos dinámicos.  
+- 💳 Simulación de flujos de pago con verificación de activación de botones.  
+- 🧪 Pruebas implementadas en `main.py` con estructura POM (`UrbanRoutesPage` y `TestUrbanRoutes`).
 
 **Aptitudes:**
 
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
-![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
-![Documentation](https://img.shields.io/badge/Documentation-FFD700?style=for-the-badge)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Automated Testing](https://img.shields.io/badge/Test%20Automation-007ACC?style=for-the-badge)
+![Page Object Model](https://img.shields.io/badge/Page%20Object%20Model-FF8C00?style=for-the-badge)
+![UI Testing](https://img.shields.io/badge/UI%20Testing-1E90FF?style=for-the-badge)
+![XPath / Selectors](https://img.shields.io/badge/XPath%20%2F%20Selectors-808080?style=for-the-badge)
+![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-FFD700?style=for-the-badge)
 
-**Enlace:** [Repositorio GitHub](https://github.com/tu-repo-ejemplo)  
+**Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/qa-project-Urban-Routes-es.git)  
 
 **Capturas del proyecto:**  
-Haz clic en las imágenes para ampliarlas. Cierra el zoom haciendo clic en el botón negro "Cerrar".
 
 <div style="display:flex; gap:10px;">
   <a href="assets/img/proyecto_ejemplo_1.PNG" target="_blank">
-    <img src="assets/img/proyecto_ejemplo_1.PNG" alt="Captura ejemplo" width="300"/>
+    <img src="assets/img/urban_routes_autom_1.PNG" alt="Captura ejemplo" width="500"/>
+  </a>  
+</div>
+<div style="display:flex; gap:10px;">
+  <a href="assets/img/proyecto_ejemplo_1.PNG" target="_blank">
+    <img src="assets/img/urban_routes_autom_1.PNG" alt="Captura ejemplo" width="500"/>
   </a>  
 </div>
 
