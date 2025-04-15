@@ -108,7 +108,7 @@ Este trabajo me permitió optimizar pruebas funcionales y de UI, documentar hall
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
 ![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
 
-**Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/urban-scooter)
+**Enlace:** [Repositorio GitHub](https://drive.google.com/drive/folders/1x-4E8KiIu2ajAgzAP8Bijax7SEHyXCK9?usp=drive_link)
 
 **Capturas del proyecto:**  
 
@@ -230,7 +230,7 @@ Elaboré listas de comprobación para validar el diseño del formulario de reser
 ![Documentation](https://img.shields.io/badge/Documentation-FFD700?style=for-the-badge)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-**Enlace:** [Repositorio GitHub]([https://github.com/ArturoLopMan/urban-lunch](https://drive.google.com/drive/folders/1kCK8Lgd5LxcjgNK2LOSR1O4uLad20rsj?usp=drive_link))
+**Enlace:** [Repositorio GitHub](https://drive.google.com/drive/folders/1kCK8Lgd5LxcjgNK2LOSR1O4uLad20rsj?usp=drive_link)
 
 **Capturas del proyecto:**  
 
