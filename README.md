@@ -318,19 +318,24 @@ Las pruebas incluyeron autenticación vía authToken, envío de solicitudes POST
     <img src="assets/img/urban_grocers_autom_2.PNG" alt="Captura atm grocers 2" width="500"/>
   </a>  
 </div>
+
 ---
 
 ## 📄 CV Profesional
 
-[![Descargar CV](https://img.shields.io/badge/-Descargar%20CV-4CAF50?style=for-the-badge)](docs/CV - Arturo Lopez QA 2025.pdf)
+<p align="center">
+  <a href="docs/CV - Arturo Lopez QA 2025.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20mi%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV PDF Badge"/>
+  </a>
+</p>
 
 ---
 
-## 📬 ¿Hablemos?
+## 📬 ¿Trabajamos juntos?
 
-Estoy abierto a oportunidades donde pueda aplicar mis habilidades en **QA manual o automatizado**, diseño de pruebas y documentación.  
-🌐 Puedes contactarme a través de:  
-- ✉️ **Email:** [alopezm41094@gmail.com](mailto:alopezm41094@gmail.com)  
-- 💼 **LinkedIn:** [Arturo López - QA Engineer](https://linkedin.com/in/arturo-lopez-qa)
+Gracias por tomarte el tiempo de visitar mi portafolio.  
+Estoy en búsqueda activa de oportunidades como **QA Manual**, **QA Automatizador Junior** o roles híbridos, donde pueda contribuir con análisis detallado, pensamiento crítico y enfoque en la mejora continua de la calidad del software.
 
-✨ ¡Gracias por visitar mi portafolio!
+Me interesa colaborar con **consultoras TI**, **startups con visión tecnológica** o **instituciones financieras** que valoren procesos de testing bien estructurados y documentación clara.
+
+<p align="center"><strong>✨ ¡Conversemos! Estoy listo para sumarme a tu equipo.</strong></p>
