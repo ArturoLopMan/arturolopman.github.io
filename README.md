@@ -155,7 +155,7 @@ Probé la app en un **emulador Android Studio**, verificando la interacción de 
 ![Test Planning](https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge)
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-007ACC?style=for-the-badge)
 
-**Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/urban-lunch)  
+**Enlace:** [Repositorio GitHub](https://drive.google.com/drive/folders/1AIdbUVe2ooNXWrTryXrfAfcS0gAUpe9W?usp=drive_link)
 
 **Capturas del proyecto:**  
 
@@ -195,7 +195,7 @@ Ejecuté pruebas a través de **Postman**, cubriendo distintos escenarios positi
 ![Functional Testing](https://img.shields.io/badge/Functional%20Testing-008080?style=for-the-badge)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-**Enlace:** [Repositorio GitHub](https://github.com/ArturoLopMan/urban-lunch)  #corregir
+**Enlace:** [Repositorio GitHub](https://drive.google.com/drive/folders/1jn4_GWZLQSG5LKZJ0PHmtWFxHvyNV-qg?usp=drive_link)
 
 **Capturas del proyecto:**  
 
