@@ -248,9 +248,9 @@ Elaboré listas de comprobación para validar el diseño del formulario de reser
 ---
 
 ## 🤖 Urban.Routes – Automatización del flujo completo de reserva
-Este proyecto tuvo como objetivo automatizar el proceso completo de solicitud de taxi en la aplicación web **Urban.Routes**, una plataforma para transporte personalizado. Utilicé **Selenium WebDriver** para simular las acciones del usuario desde la configuración de la ruta hasta la confirmación del viaje, garantizando la verificación continua de funciones críticas del sistema.
+Este proyecto automatizó el flujo completo de reserva de taxi en la app web Urban.Routes, desde la configuración de ruta hasta la confirmación del viaje, usando Selenium WebDriver. Se validaron acciones clave como selección de tarifa, ingreso de datos, pago con tarjeta y solicitud de extras, incluyendo la lógica de activación del botón de pago por pérdida de enfoque.
 
-Entre las funcionalidades automatizadas se encuentran: selección de tarifa "Comfort", ingreso de teléfono, adición de tarjeta de crédito (validando el flujo de activación por pérdida de enfoque del campo CVV), selección de extras (mantas, pañuelos, helados), y la validación del modal de búsqueda de taxi. Esta prueba de extremo a extremo mejora la estabilidad del sistema ante futuras actualizaciones.
+Entre las funcionalidades automatizadas se encuentran: selección de tarifa “Comfort”, ingreso de teléfono, adición de tarjeta de crédito (validando el flujo de activación por pérdida de enfoque del campo CVV) y otras más.
 
 **Resultados destacados:**
 - 🔁 Automatización completa del flujo de reserva con validación de elementos dinámicos.  
@@ -285,9 +285,9 @@ Entre las funcionalidades automatizadas se encuentran: selección de tarifa "Com
 ---
 
 ## 🧪 Urban.Grocers – Automatización de pruebas para creación de kits de productos
-Este proyecto se enfocó en automatizar la validación de la funcionalidad de creación de "kits de productos" en la aplicación **Urban.Grocers**, a través de su API documentada en Swagger. Se desarrolló una suite de pruebas basadas en una lista de comprobación para el campo `name`, validando distintos escenarios con datos válidos e inválidos en solicitudes POST.
+Este proyecto automatizó la validación de la creación de kits de productos en Urban.Grocers, utilizando su API documentada en Swagger. Se diseñó una suite de pruebas para el campo name, cubriendo múltiples escenarios con datos válidos e inválidos.
 
-El proceso incluyó la autenticación de usuarios mediante `authToken`, el envío de solicitudes autorizadas para la creación de kits, y la implementación de validaciones dinámicas sobre la respuesta del servidor. Toda la lógica se distribuyó en 4 archivos principales, organizando la configuración, datos de prueba, funciones de solicitud y los tests automatizados.
+Las pruebas incluyeron autenticación vía authToken, envío de solicitudes POST autorizadas y validación dinámica de respuestas. El código se estructuró en 4 archivos: configuración, datos, funciones de envío y pruebas.
 
 **Resultados destacados:**
 - ✅ Se implementaron **9 funciones de prueba automatizada** cubriendo casos límite y equivalentes.  
