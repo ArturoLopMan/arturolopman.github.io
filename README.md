@@ -272,13 +272,13 @@ Entre las funcionalidades automatizadas se encuentran: selección de tarifa "Com
 **Capturas del proyecto:**  
 
 <div style="display:flex; gap:10px;">
-  <a href="assets/img/proyecto_ejemplo_1.PNG" target="_blank">
-    <img src="assets/img/urban_routes_autom_1.PNG" alt="Captura ejemplo" width="500"/>
+  <a href="urban_routes_autom_1.PNG" target="_blank">
+    <img src="assets/img/urban_routes_autom_1.PNG" alt="Captura autom_1" width="500"/>
   </a>  
 </div>
 <div style="display:flex; gap:10px;">
-  <a href="assets/img/proyecto_ejemplo_1.PNG" target="_blank">
-    <img src="assets/img/urban_routes_autom_1.PNG" alt="Captura ejemplo" width="500"/>
+  <a href="assets/img/urban_routes_autom_2.PNG" target="_blank">
+    <img src="assets/img/urban_routes_autom_2.PNG" alt="Captura autom_2" width="500"/>
   </a>  
 </div>
 
